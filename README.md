@@ -20,19 +20,7 @@ Design & ship **reliable, observable, secure** software that turns complex opera
 ---
 ## 🐍 Snake: Eat My Contributions
 
-<!-- snake graph -->
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BistrOafrica/BistrOafrica/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/BistrOafrica/BistrOafrica/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/BistrOafrica/BistrOafrica/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-  <br />
-  <br />
-  <br />
-</div>
+![snake svg](https://raw.githubusercontent.com/BistrOafrica/BistrOafrica/output/github-contribution-grid-snake.svg)
 
 ---
 ## 🧰 Tech Stack (Badges)
