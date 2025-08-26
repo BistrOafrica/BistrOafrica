@@ -20,7 +20,8 @@ Design & ship **reliable, observable, secure** software that turns complex opera
 ---
 ## 🐍 Snake: Eat My Contributions
 
-![snake svg](https://raw.githubusercontent.com/BistrOafrica/BistrOafrica/output/github-contribution-grid-snake.svg)
+![snake svg](https://raw.githubusercontent.com/BistrOafrica/BistrOafrica/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake svg](https://raw.githubusercontent.com/BistrOafrica/BistrOafrica/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 ## 🧰 Tech Stack (Badges)
@@ -92,60 +93,39 @@ Design & ship **reliable, observable, secure** software that turns complex opera
 
 ---
 
-## 🤝 Let’s Build
+## 🤝 Let's Build
 
-I’m open to **consulting, collaboration, and mentorship**.
+I'm open to **consulting, collaboration, and mentorship**.
 **Email:** [Joseph Kangethe](mailto:benny.gitouw254@gmail.com) • **LinkedIn:** [Joseph Kangethe](https://www.linkedin.com/in/joseph-kangethe-056257185/)
 
 ---
 
+## ⚡ GitHub Stats & Activity ⚡
 
-  <!-- stats -->
-<h2 align="center">⚡ Stats ⚡</h2>
-<br />
-<p align=center>
-<!-- first row -->
-  <div align=center>
-  <!-- streak stats -->
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=BistrOafrica&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=BistrOafrica&theme=default&border=61dafb" />
-        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=BistrOafrica&theme=default&border=61dafb" alt="BistrOafrica's streak stats" />
-      </picture>
-    </a>
-  <!-- github stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BistrOafrica&show_icons=true&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=BistrOafrica&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=BistrOafrica&show_icons=true&theme=default&border_color=61dafb" alt="BistrOafrica's github stats" />
-      </picture>
-    </a>
-  </div>
-  <!-- space -->
-  <br /><br /><br /><br /><br /><br /><br /><br /><br />
-<!-- second row -->
-  <div align=center>
-  <!-- language stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BistrOafrica&langs_count=8&theme=react&layout=compact&border_color=61dafb&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BistrOafrica&langs_count=8&layout=compact&border_color=61dafb" />
-        <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BistrOafrica&langs_count=8&layout=compact&border_color=61dafb" alt="sanidhyy's language stats" />
-      </picture>
-    </a>
-  </div>
-  <!-- spaces -->
-  <br />
-  <br />
-  <br />
-  <!-- contribution graph -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BistrOafrica&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BistrOafrica&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BistrOafrica&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="sanidhyy's contribution graph" />
-    </picture>
-  </a>
-</p>
+<details open>
+  <summary>📊 GitHub Profile Stats</summary>
+  <br/>
+  
+  | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BistrOafrica&theme=default&border=61dafb" alt="BistrOafrica's streak stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=BistrOafrica&show_icons=true&theme=default&border_color=61dafb" alt="BistrOafrica's github stats" /> |
+  |---|---|
+  
+  <br/>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BistrOafrica&langs_count=8&layout=compact&border_color=61dafb" alt="BistrOafrica's language stats" />
+</details>
+
+<details open>
+  <summary>🐍 Contribution Snake</summary>
+  <br/>
+  
+  ![Snake animation](https://raw.githubusercontent.com/BistrOafrica/BistrOafrica/output/github-contribution-grid-snake.svg)
+  
+  <br/>
+</details>
+
+<details open>
+  <summary>📈 Activity Graph</summary>
+  <br/>
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BistrOafrica&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
+</details>
