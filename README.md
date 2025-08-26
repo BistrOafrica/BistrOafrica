@@ -18,6 +18,40 @@ Design & ship **reliable, observable, secure** software that turns complex opera
 * 📡 Protocols: **REST, gRPC, SOAP/XML, WebRTC, SIP/VoIP**
 
 ---
+## 🐍 Snake: Eat My Contributions
+
+<!-- snake graph -->
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BistrOafrica/BistrOafrica/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/BistrOafrica/BistrOafrica/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/BistrOafrica/BistrOafrica/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+  <br />
+</div>
+
+---
+## 🧰 Tech Stack (Badges)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana\&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry\&logoColor=white)
+![New Relic](https://img.shields.io/badge/NewRelic-1CE783?logo=newrelic\&logoColor=white)
+
+---
 
 ## 🏆 Gamified Progress
 
@@ -60,43 +94,6 @@ Design & ship **reliable, observable, secure** software that turns complex opera
 
 ---
 
-## 🧰 Tech Stack (Badges)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws\&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana\&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry\&logoColor=white)
-![New Relic](https://img.shields.io/badge/NewRelic-1CE783?logo=newrelic\&logoColor=white)
-
----
-## 🐍 Snake: Eat My Contributions
-
-<!-- snake graph -->
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bistroafrica/bistroafrica/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/bistroafrica/bistroafrica/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/bistroafrica/bistroafrica/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-  <br />
-  <br />
-  <br />
-</div>
-
-  <hr />
-
----
-
 ## 📚 Case Studies & Talks
 
 * **Microservices with gRPC in Go** — patterns for auth, retries, and observability
@@ -110,7 +107,7 @@ Design & ship **reliable, observable, secure** software that turns complex opera
 ## 🤝 Let’s Build
 
 I’m open to **consulting, collaboration, and mentorship**.
-**Email:** [benny.gitouw254@gmail.com](mailto:benny.gitouw254@gmail.com) • **LinkedIn:** https://www.linkedin.com/in/joseph-kangethe-056257185/
+**Email:** [Joseph Kangethe](mailto:benny.gitouw254@gmail.com) • **LinkedIn:** [Joseph Kangethe](https://www.linkedin.com/in/joseph-kangethe-056257185/)
 
 ---
 
@@ -124,17 +121,17 @@ I’m open to **consulting, collaboration, and mentorship**.
   <!-- streak stats -->
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bistroafrica&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bistroafrica&theme=default&border=61dafb" />
-        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=bistroafrica&theme=default&border=61dafb" alt="bistroafrica's streak stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=BistrOafrica&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=BistrOafrica&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=BistrOafrica&theme=default&border=61dafb" alt="BistrOafrica's streak stats" />
       </picture>
     </a>
   <!-- github stats -->
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bistroafrica&show_icons=true&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=bistroafrica&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=bistroafrica&show_icons=true&theme=default&border_color=61dafb" alt="bistroafrica's github stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BistrOafrica&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=BistrOafrica&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=BistrOafrica&show_icons=true&theme=default&border_color=61dafb" alt="BistrOafrica's github stats" />
       </picture>
     </a>
   </div>
@@ -145,9 +142,9 @@ I’m open to **consulting, collaboration, and mentorship**.
   <!-- language stats -->
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bistroafrica&langs_count=8&theme=react&layout=compact&border_color=61dafb&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bistroafrica&langs_count=8&layout=compact&border_color=61dafb" />
-        <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bistroafrica&langs_count=8&layout=compact&border_color=61dafb" alt="sanidhyy's language stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BistrOafrica&langs_count=8&theme=react&layout=compact&border_color=61dafb&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BistrOafrica&langs_count=8&layout=compact&border_color=61dafb" />
+        <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BistrOafrica&langs_count=8&layout=compact&border_color=61dafb" alt="sanidhyy's language stats" />
       </picture>
     </a>
   </div>
@@ -158,9 +155,9 @@ I’m open to **consulting, collaboration, and mentorship**.
   <!-- contribution graph -->
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bistroafrica&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bistroafrica&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bistroafrica&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="sanidhyy's contribution graph" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BistrOafrica&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BistrOafrica&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BistrOafrica&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="sanidhyy's contribution graph" />
     </picture>
   </a>
 </p>
