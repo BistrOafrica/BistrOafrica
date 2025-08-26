@@ -35,7 +35,6 @@ Design & ship **reliable, observable, secure** software that turns complex opera
   * ⚡ *Speedrunner*: Frontend bundle -35% via code‑split + suspense
   * 🧰 *DX Crafter*: Shared UI kit + Storybook in monorepo
 
-> Claim an achievement by opening an issue/PR on any project below 👇
 
 ---
 
@@ -46,23 +45,18 @@ Design & ship **reliable, observable, secure** software that turns complex opera
 **Stack:** Go (gRPC) · Laravel · React · VoIP · Grafana/Sentry/New Relic
 **Highlights:** Real‑time agent orchestration, multi‑tenant APIs, microservices migration.
 
-* Repo: [https://github.com/BistrOafrica/dialafrika-saas](https://github.com/BistrOafrica/dialafrika-saas) (private/placeholder)
 
 ### 2) **Leta Logistics Platform**
 
 **Stack:** React + TS · Go microservices · gRPC
 **Highlights:** High‑performance UI supporting scale‑up; contributed to seed round.
 
-* Repo: [https://github.com/BistrOafrica/leta-logistics](https://github.com/BistrOafrica/leta-logistics) (case study)
 
 ### 3) **Soofapay – Web POS**
 
 **Stack:** React · Redux · Node
 **Highlights:** Responsive POS + admin analytics.
 
-* Repo: [https://github.com/BistrOafrica/soofapay-pos](https://github.com/BistrOafrica/soofapay-pos)
-
-> More at **/projects** in this profile; or ping me for deep‑dives.
 
 ---
 
@@ -83,74 +77,23 @@ Design & ship **reliable, observable, secure** software that turns complex opera
 ![New Relic](https://img.shields.io/badge/NewRelic-1CE783?logo=newrelic\&logoColor=white)
 
 ---
-
-## 📈 Developer Scoreboard
-
-<a href="https://github-readme-stats.vercel.app/api?username=BistrOafrica&show_icons=true&include_all_commits=true&count_private=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BistrOafrica&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
-
-<a href="https://streak-stats.demolab.com?user=BistrOafrica">
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=BistrOafrica" />
-</a>
-
-<a href="https://github-profile-trophy.vercel.app/?username=BistrOafrica&theme=flat&row=1&column=7">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=BistrOafrica&row=1&column=7" />
-</a>
-
----
-
 ## 🐍 Snake: Eat My Contributions
 
-Embed updates automatically with a GitHub Action (instructions below). The SVG animates your contribution grid as a snake game.
+<!-- snake graph -->
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bistroafrica/bistroafrica/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/bistroafrica/bistroafrica/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/bistroafrica/bistroafrica/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+  <br />
+</div>
 
-![snake svg](https://raw.githubusercontent.com/BistrOafrica/BistrOafrica/output/github-contribution-grid-snake.svg)
-
-> If the image 404s initially, give the workflow one run and refresh.
-> Replace **BistrOafrica** everywhere.
-
-### Setup: Snake Workflow
-
-Create `.github/workflows/snake.yml` in your **profile repo** (a repo named exactly your username).
-
-```yaml
-name: Generate snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"  # daily
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate snake SVG
-        uses: Platane/snk@v3
-        with:
-          github_user_name: BistrOafrica
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then embed:
-
-```markdown
-![snake svg](https://raw.githubusercontent.com/BistrOafrica/BistrOafrica/output/github-contribution-grid-snake.svg)
-```
+  <hr />
 
 ---
 
@@ -170,3 +113,54 @@ I’m open to **consulting, collaboration, and mentorship**.
 **Email:** [benny.gitouw254@gmail.com](mailto:benny.gitouw254@gmail.com) • **LinkedIn:** https://www.linkedin.com/in/joseph-kangethe-056257185/
 
 ---
+
+
+  <!-- stats -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br />
+<p align=center>
+<!-- first row -->
+  <div align=center>
+  <!-- streak stats -->
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bistroafrica&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bistroafrica&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=bistroafrica&theme=default&border=61dafb" alt="bistroafrica's streak stats" />
+      </picture>
+    </a>
+  <!-- github stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bistroafrica&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=bistroafrica&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=bistroafrica&show_icons=true&theme=default&border_color=61dafb" alt="bistroafrica's github stats" />
+      </picture>
+    </a>
+  </div>
+  <!-- space -->
+  <br /><br /><br /><br /><br /><br /><br /><br /><br />
+<!-- second row -->
+  <div align=center>
+  <!-- language stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bistroafrica&langs_count=8&theme=react&layout=compact&border_color=61dafb&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bistroafrica&langs_count=8&layout=compact&border_color=61dafb" />
+        <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bistroafrica&langs_count=8&layout=compact&border_color=61dafb" alt="sanidhyy's language stats" />
+      </picture>
+    </a>
+  </div>
+  <!-- spaces -->
+  <br />
+  <br />
+  <br />
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bistroafrica&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bistroafrica&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bistroafrica&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="sanidhyy's contribution graph" />
+    </picture>
+  </a>
+</p>
